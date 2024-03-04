@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(to bottom, #87CEEB, #FFFFFF);
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+
+  .card {
+    background-color: rgba(255, 255, 255, 0.9);
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
